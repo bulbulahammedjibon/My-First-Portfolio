@@ -47,3 +47,17 @@ font-size: 20px;
 font-weight: 700;
 padding: 15px 35px;
 }
+
+/* header related style */
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-pictuere{
+    width: 500px;
+}
